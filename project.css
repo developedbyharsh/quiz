@@ -58,6 +58,7 @@ button {
     color: #FFFF;
     font-weight: bold;
     box-shadow: 5px 5px 5px #888;
+    height:100ph;
 }
 
 ul {
